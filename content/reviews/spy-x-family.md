@@ -27,6 +27,14 @@ There isn't much I can complain about. The show delivers what I expect. The only
 
 **8/10**
 
+## Loid Concept Art
+
+![[assets/loid-concept-art.jpg]]
+
+## Award-Winning Anime Reference
+
+![[assets/award-winning-anime.pdf]]
+
 ## Related Reviews
 
 Frieren goes deeper on the found family side if you want more of that. Solo Leveling is a lighter watch but still entertaining.
