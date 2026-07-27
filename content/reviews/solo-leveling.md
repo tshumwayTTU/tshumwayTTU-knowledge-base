@@ -1,5 +1,6 @@
 ---
 title: Solo Leveling
+date: 2026-07-26
 ---
 # Solo Leveling
 
@@ -33,3 +34,5 @@ My Hero Academia has the same underdog-to-strongest arc. Spy x Family is just as
 
 - [[reviews/my-hero-academia | My Hero Academia]]
 - [[reviews/spy-x-family | Spy x Family]]
+- [[series/solo-leveling | Series Page]]
+- [[reviews/index | All Reviews]]

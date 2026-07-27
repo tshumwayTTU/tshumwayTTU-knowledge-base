@@ -1,5 +1,6 @@
 ---
 title: Chainsaw Man
+date: 2026-07-26
 ---
 # Chainsaw Man
 
@@ -33,3 +34,5 @@ Frieren hits harder emotionally. My Hero Academia has a similar group dynamic if
 
 - [[reviews/frieren | Frieren]]
 - [[reviews/my-hero-academia | My Hero Academia]]
+- [[series/chainsaw-man | Series Page]]
+- [[reviews/index | All Reviews]]

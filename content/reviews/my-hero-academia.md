@@ -1,5 +1,6 @@
 ---
 title: My Hero Academia
+date: 2026-07-26
 ---
 # My Hero Academia
 
@@ -33,3 +34,5 @@ Spy x Family has stronger group dynamics if that was the appeal. Chainsaw Man ha
 
 - [[reviews/spy-x-family | Spy x Family]]
 - [[reviews/chainsaw-man | Chainsaw Man]]
+- [[series/my-hero-academia | Series Page]]
+- [[reviews/index | All Reviews]]

@@ -1,5 +1,6 @@
 ---
 title: About
+date: 2026-07-26
 ---
 ## About Me
 

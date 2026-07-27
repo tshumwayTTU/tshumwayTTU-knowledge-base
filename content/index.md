@@ -1,5 +1,6 @@
 ---
 title: Anime
+date: 2026-07-26
 ---
 ## Anime
 
@@ -17,3 +18,9 @@ This knowledge base is organized into six main categories:
 - [[recommendations/index | Anime Recommendations]] — curated "what to watch" lists
 - [[characters/index | Anime Characters]] — character profiles and analysis
 - [[glossary/index | Anime Glossary]] — terms explained
+
+## More
+
+- [[about | About Me]]
+- [[org-system-analysis | AniList Organizing System Analysis]]
+- [[references | References]]

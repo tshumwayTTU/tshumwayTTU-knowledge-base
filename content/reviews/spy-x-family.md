@@ -1,5 +1,6 @@
 ---
 title: Spy x Family
+date: 2026-07-26
 ---
 # Spy x Family
 
@@ -41,3 +42,5 @@ Frieren goes deeper on the found family side if you want more of that. Solo Leve
 
 - [[reviews/frieren | Frieren]]
 - [[reviews/solo-leveling | Solo Leveling]]
+- [[series/spy-x-family | Series Page]]
+- [[reviews/index | All Reviews]]

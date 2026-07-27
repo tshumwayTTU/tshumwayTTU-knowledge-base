@@ -1,5 +1,6 @@
 ---
 title: Frieren - Beyond Journey's End
+date: 2026-07-26
 ---
 # Frieren: Beyond Journey's End
 
@@ -33,3 +34,5 @@ Chainsaw Man has the emotional hits and the found family angle. Solo Leveling is
 
 - [[reviews/chainsaw-man | Chainsaw Man]]
 - [[reviews/solo-leveling | Solo Leveling]]
+- [[series/frieren | Series Page]]
+- [[reviews/index | All Reviews]]
